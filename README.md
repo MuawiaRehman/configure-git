@@ -12,7 +12,6 @@ A bash script to automate the first-time Git and GitHub setup on Linux, includin
 
 Before running the script, ensure that Git is installed on your Linux system. Depending on your distribution, you can install Git using the following commands:
 
--```
 - **Debian/Ubuntu**:
   ```bash
   sudo apt update
@@ -28,8 +27,7 @@ Before running the script, ensure that Git is installed on your Linux system. De
   ```bash
   sudo zypper install git
   ```
-``` 
-
+  
 ## Usage
 
 1. Clone the repository:
