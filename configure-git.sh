@@ -13,7 +13,7 @@ git config --global user.email "$email"
 
 # Generate an SSH key using the provided email
 echo "Generating SSH key for $email..."
-ssh-keygen -t rsa -b 4096 -C "$email" -f ~/.ssh/id_rsa -N ""
+ssh-keygen -t rsa -b 4096 -C "$email" -f ~/.ssh/id_rsa
 
 # Start the SSH agent and add the key
 echo "Starting the SSH agent..."
