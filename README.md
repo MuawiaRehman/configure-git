@@ -1,6 +1,6 @@
 ### configure-git
 
-A bash script to automate Git configuration on Linux, including setting up your Git username and email, generating an SSH key for GitHub, and adding the SSH key to the SSH agent. The script also provides instructions for adding the SSH key to your GitHub account.
+A bash script to automate the first-time Git and GitHub setup on Linux, including configuring your Git username and email, generating an SSH key for GitHub, adding the SSH key to the SSH agent, and providing instructions for adding the SSH key to your GitHub account.
 
 ## Features
 - Set up your Git username and email.
