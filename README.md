@@ -41,7 +41,7 @@ After running the script, you'll see your SSH public key printed to the terminal
 
 ## License
 
-This project is licensed under the GPL v3.0 License - see the (LICENSE) file for details.
+This project is licensed under the GPL v3.0 License - see the LICENSE file for details.
 ```
 
 Let me know if you need any adjustments or further explanations!
